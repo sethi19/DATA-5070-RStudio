@@ -1,13 +1,10 @@
-# DATA-5070-RStudio
-DATA 5070 -- Introduction to RStudio
+# DATA 5070: Statistical Software Packages for Applied Data Analytics
 
 
-This session will cover the following topics: 
+# Lesson 1: Introduction to RStudio
 
-- How to install R and RStudio
-- Launching RStudio
-- An overview of the key components available in RStudio
-- Features Available in RStudio
-
-
-Link to youtube tutorial: https://www.youtube.com/watch?v=ZfXWDixX2Rc&ab_channel=aayushsethi
+### This session will cover the following topics: 
+- Basic Mathematical Operations
+- Creating Variables
+- Inspecting Data Types
+- Link to youtube tutorial: https://www.youtube.com/watch?v=ZfXWDixX2Rc&ab_channel=aayushsethi
